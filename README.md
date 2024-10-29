@@ -1,3 +1,7 @@
+
+![bannertest4](https://github.com/user-attachments/assets/996232de-a07c-462c-99d3-dd19d27d559f)
+
+
 >_ Loading C:/Kronozonic/Introduction...
 
 - 👋 Hi, I’m @Kronozonic

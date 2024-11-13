@@ -2,7 +2,7 @@
 ![bannertest4](https://github.com/user-attachments/assets/996232de-a07c-462c-99d3-dd19d27d559f)
 
 
->_ Loading C:/Kronozonic/Introduction...
+>_ Loading C:/Kronozonic/Introduction/README.md...
 
 - 👋 Hi, I’m @Kronozonic
 - 👀 I’m interested in ... Games, Coding, Cosplay, Drawing, Design, Photography...
@@ -17,6 +17,6 @@ Kronozonic/Kronozonic is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
->_ Loading Complete!
+>_ Loading Complete.
 
    END OF LINE

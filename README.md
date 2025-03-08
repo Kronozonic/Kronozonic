@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @Nickynoir
 - 👀 I’m interested in ... Gaming, Cosplay, Listening to music, etc...
 - 🌱 I’m currently learning ... HTML, CSS, JS.
-- 💞️ I’m looking to collaborate on ... Gaming and Front-End
+- 💞️ I’m looking to collaborate on ... UI/UX, Gaming and Front-End
 - 📫 How to reach me ... Right here! Well, Atleast for now.
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... G'raha tia is best boy!
